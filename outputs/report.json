@@ -1,0 +1,14 @@
+{
+  "full_name": "Aarush Malhotra",
+  "primary_email": "aarush.malhotra@gmail.com",
+  "phone": "+919876543210",
+  "city": "Bengaluru",
+  "headline": "Data engineer building reliable analytics pipelines",
+  "skills": [
+    "Python",
+    "Spark",
+    "SQL",
+    "AWS"
+  ],
+  "overall_confidence": 0.74
+}

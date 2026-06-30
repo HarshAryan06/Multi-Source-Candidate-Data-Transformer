@@ -1,0 +1,141 @@
+{
+  "candidate_id": "cand_922e69b619",
+  "full_name": "Aarush Malhotra",
+  "emails": [
+    "aarush.malhotra@gmail.com"
+  ],
+  "phones": [
+    "+919876543210"
+  ],
+  "location": {
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "IN"
+  },
+  "links": {
+    "linkedin": null,
+    "github": null,
+    "portfolio": null,
+    "other": []
+  },
+  "headline": "Data engineer building reliable analytics pipelines",
+  "years_experience": 4.0,
+  "skills": [
+    {
+      "name": "Python",
+      "confidence": 0.68,
+      "sources": [
+        "recruiter_notes"
+      ]
+    },
+    {
+      "name": "Spark",
+      "confidence": 0.68,
+      "sources": [
+        "recruiter_notes"
+      ]
+    },
+    {
+      "name": "SQL",
+      "confidence": 0.68,
+      "sources": [
+        "recruiter_notes"
+      ]
+    },
+    {
+      "name": "AWS",
+      "confidence": 0.68,
+      "sources": [
+        "recruiter_notes"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Tata Consultancy Services",
+      "title": "Data Engineer",
+      "start": null,
+      "end": null,
+      "summary": "Current role from recruiter CSV"
+    }
+  ],
+  "education": [],
+  "provenance": [
+    {
+      "field": "full_name",
+      "source": "recruiter_csv row 2",
+      "method": "csv name",
+      "confidence": 0.95
+    },
+    {
+      "field": "emails",
+      "source": "recruiter_csv row 2",
+      "method": "csv email",
+      "confidence": 0.95
+    },
+    {
+      "field": "emails",
+      "source": "recruiter_notes section 1",
+      "method": "notes email",
+      "confidence": 0.75
+    },
+    {
+      "field": "phones",
+      "source": "recruiter_csv row 2",
+      "method": "csv phone",
+      "confidence": 0.9
+    },
+    {
+      "field": "headline",
+      "source": "recruiter_notes section 1",
+      "method": "notes headline",
+      "confidence": 0.75
+    },
+    {
+      "field": "location",
+      "source": "recruiter_notes section 1",
+      "method": "notes location",
+      "confidence": 0.7
+    },
+    {
+      "field": "years_experience",
+      "source": "recruiter_notes section 1",
+      "method": "notes years of experience",
+      "confidence": 0.65
+    },
+    {
+      "field": "experience[0]",
+      "source": "recruiter_csv row 2",
+      "method": "csv company/title",
+      "confidence": 0.85
+    },
+    {
+      "field": "skills[Python]",
+      "source": "recruiter_notes section 1",
+      "method": "skill keyword match",
+      "confidence": 0.68
+    },
+    {
+      "field": "skills[Spark]",
+      "source": "recruiter_notes section 1",
+      "method": "skill keyword match",
+      "confidence": 0.68
+    },
+    {
+      "field": "skills[SQL]",
+      "source": "recruiter_notes section 1",
+      "method": "skill keyword match",
+      "confidence": 0.68
+    },
+    {
+      "field": "skills[AWS]",
+      "source": "recruiter_notes section 1",
+      "method": "skill keyword match",
+      "confidence": 0.68
+    }
+  ],
+  "overall_confidence": 0.74,
+  "warnings": [
+    "ignored 8 csv rows for other candidates"
+  ]
+}

@@ -1,0 +1,1271 @@
+[
+  {
+    "candidate_id": "cand_922e69b619",
+    "full_name": "Aarush Malhotra",
+    "emails": [
+      "aarush.malhotra@gmail.com"
+    ],
+    "phones": [
+      "+919876543210"
+    ],
+    "location": {
+      "city": "Bengaluru",
+      "region": "Karnataka",
+      "country": "IN"
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Data engineer building reliable analytics pipelines",
+    "years_experience": 4.0,
+    "skills": [
+      {
+        "name": "Python",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "Spark",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "SQL",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "AWS",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Tata Consultancy Services",
+        "title": "Data Engineer",
+        "start": null,
+        "end": null,
+        "summary": "Current role from recruiter CSV"
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv row 2",
+        "method": "csv name",
+        "confidence": 0.95
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_csv row 2",
+        "method": "csv email",
+        "confidence": 0.95
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_notes section 1",
+        "method": "notes email",
+        "confidence": 0.75
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_csv row 2",
+        "method": "csv phone",
+        "confidence": 0.9
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_notes section 1",
+        "method": "notes headline",
+        "confidence": 0.75
+      },
+      {
+        "field": "location",
+        "source": "recruiter_notes section 1",
+        "method": "notes location",
+        "confidence": 0.7
+      },
+      {
+        "field": "years_experience",
+        "source": "recruiter_notes section 1",
+        "method": "notes years of experience",
+        "confidence": 0.65
+      },
+      {
+        "field": "experience[0]",
+        "source": "recruiter_csv row 2",
+        "method": "csv company/title",
+        "confidence": 0.85
+      },
+      {
+        "field": "skills[Python]",
+        "source": "recruiter_notes section 1",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[Spark]",
+        "source": "recruiter_notes section 1",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[SQL]",
+        "source": "recruiter_notes section 1",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[AWS]",
+        "source": "recruiter_notes section 1",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      }
+    ],
+    "overall_confidence": 0.74,
+    "warnings": [
+      "ignored 8 csv rows for other candidates"
+    ]
+  },
+  {
+    "candidate_id": "cand_37b4d96b7c",
+    "full_name": "Diya Nair",
+    "emails": [
+      "diya.nair@outlook.com"
+    ],
+    "phones": [
+      "+919823456712"
+    ],
+    "location": {
+      "city": "Kochi",
+      "region": "Kerala",
+      "country": "IN"
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Machine learning engineer focused on production-ready models",
+    "years_experience": 5.0,
+    "skills": [
+      {
+        "name": "Machine Learning",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "Python",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "SQL",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "AWS",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Infosys",
+        "title": "Machine Learning Engineer",
+        "start": null,
+        "end": null,
+        "summary": "Current role from recruiter CSV"
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv row 3",
+        "method": "csv name",
+        "confidence": 0.95
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_csv row 3",
+        "method": "csv email",
+        "confidence": 0.95
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_notes section 2",
+        "method": "notes email",
+        "confidence": 0.75
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_csv row 3",
+        "method": "csv phone",
+        "confidence": 0.9
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_notes section 2",
+        "method": "notes headline",
+        "confidence": 0.75
+      },
+      {
+        "field": "location",
+        "source": "recruiter_notes section 2",
+        "method": "notes location",
+        "confidence": 0.7
+      },
+      {
+        "field": "years_experience",
+        "source": "recruiter_notes section 2",
+        "method": "notes years of experience",
+        "confidence": 0.65
+      },
+      {
+        "field": "experience[0]",
+        "source": "recruiter_csv row 3",
+        "method": "csv company/title",
+        "confidence": 0.85
+      },
+      {
+        "field": "skills[Machine Learning]",
+        "source": "recruiter_notes section 2",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[Python]",
+        "source": "recruiter_notes section 2",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[SQL]",
+        "source": "recruiter_notes section 2",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[AWS]",
+        "source": "recruiter_notes section 2",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      }
+    ],
+    "overall_confidence": 0.74,
+    "warnings": [
+      "ignored 8 csv rows for other candidates"
+    ]
+  },
+  {
+    "candidate_id": "cand_c13818ed8a",
+    "full_name": "Vivaan Roy",
+    "emails": [
+      "vivaan.roy@yahoo.com"
+    ],
+    "phones": [
+      "+919834567823"
+    ],
+    "location": {
+      "city": "Kolkata",
+      "region": "West Bengal",
+      "country": "IN"
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Backend developer building APIs and service integrations",
+    "years_experience": 3.0,
+    "skills": [
+      {
+        "name": "JavaScript",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "PostgreSQL",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "Node.js",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "SQL",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Wipro",
+        "title": "Backend Developer",
+        "start": null,
+        "end": null,
+        "summary": "Current role from recruiter CSV"
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv row 4",
+        "method": "csv name",
+        "confidence": 0.95
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_csv row 4",
+        "method": "csv email",
+        "confidence": 0.95
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_notes section 3",
+        "method": "notes email",
+        "confidence": 0.75
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_csv row 4",
+        "method": "csv phone",
+        "confidence": 0.9
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_notes section 3",
+        "method": "notes headline",
+        "confidence": 0.75
+      },
+      {
+        "field": "location",
+        "source": "recruiter_notes section 3",
+        "method": "notes location",
+        "confidence": 0.7
+      },
+      {
+        "field": "years_experience",
+        "source": "recruiter_notes section 3",
+        "method": "notes years of experience",
+        "confidence": 0.65
+      },
+      {
+        "field": "experience[0]",
+        "source": "recruiter_csv row 4",
+        "method": "csv company/title",
+        "confidence": 0.85
+      },
+      {
+        "field": "skills[JavaScript]",
+        "source": "recruiter_notes section 3",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[PostgreSQL]",
+        "source": "recruiter_notes section 3",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[Node.js]",
+        "source": "recruiter_notes section 3",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[SQL]",
+        "source": "recruiter_notes section 3",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      }
+    ],
+    "overall_confidence": 0.74,
+    "warnings": [
+      "ignored 8 csv rows for other candidates"
+    ]
+  },
+  {
+    "candidate_id": "cand_418c424399",
+    "full_name": "Anika Sharma",
+    "emails": [
+      "anika.sharma@gmail.com"
+    ],
+    "phones": [
+      "+919845678934"
+    ],
+    "location": {
+      "city": "Delhi",
+      "region": "Delhi",
+      "country": "IN"
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Data analyst creating business dashboards and reports",
+    "years_experience": 3.0,
+    "skills": [
+      {
+        "name": "Tableau",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "Python",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "Excel",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "SQL",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "HCLTech",
+        "title": "Data Analyst",
+        "start": null,
+        "end": null,
+        "summary": "Current role from recruiter CSV"
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv row 5",
+        "method": "csv name",
+        "confidence": 0.95
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_csv row 5",
+        "method": "csv email",
+        "confidence": 0.95
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_notes section 4",
+        "method": "notes email",
+        "confidence": 0.75
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_csv row 5",
+        "method": "csv phone",
+        "confidence": 0.9
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_notes section 4",
+        "method": "notes headline",
+        "confidence": 0.75
+      },
+      {
+        "field": "location",
+        "source": "recruiter_notes section 4",
+        "method": "notes location",
+        "confidence": 0.7
+      },
+      {
+        "field": "years_experience",
+        "source": "recruiter_notes section 4",
+        "method": "notes years of experience",
+        "confidence": 0.65
+      },
+      {
+        "field": "experience[0]",
+        "source": "recruiter_csv row 5",
+        "method": "csv company/title",
+        "confidence": 0.85
+      },
+      {
+        "field": "skills[Tableau]",
+        "source": "recruiter_notes section 4",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[Python]",
+        "source": "recruiter_notes section 4",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[Excel]",
+        "source": "recruiter_notes section 4",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[SQL]",
+        "source": "recruiter_notes section 4",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      }
+    ],
+    "overall_confidence": 0.74,
+    "warnings": [
+      "ignored 8 csv rows for other candidates"
+    ]
+  },
+  {
+    "candidate_id": "cand_0ee7eb5d90",
+    "full_name": "Kunal Mehta",
+    "emails": [
+      "kunal.mehta@proton.me"
+    ],
+    "phones": [
+      "+919856789045"
+    ],
+    "location": {
+      "city": "Pune",
+      "region": "Maharashtra",
+      "country": "IN"
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Cloud engineer improving infrastructure reliability",
+    "years_experience": 4.0,
+    "skills": [
+      {
+        "name": "Kubernetes",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "Terraform",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "Docker",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "AWS",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Tech Mahindra",
+        "title": "Cloud Engineer",
+        "start": null,
+        "end": null,
+        "summary": "Current role from recruiter CSV"
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv row 6",
+        "method": "csv name",
+        "confidence": 0.95
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_csv row 6",
+        "method": "csv email",
+        "confidence": 0.95
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_notes section 5",
+        "method": "notes email",
+        "confidence": 0.75
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_csv row 6",
+        "method": "csv phone",
+        "confidence": 0.9
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_notes section 5",
+        "method": "notes headline",
+        "confidence": 0.75
+      },
+      {
+        "field": "location",
+        "source": "recruiter_notes section 5",
+        "method": "notes location",
+        "confidence": 0.7
+      },
+      {
+        "field": "years_experience",
+        "source": "recruiter_notes section 5",
+        "method": "notes years of experience",
+        "confidence": 0.65
+      },
+      {
+        "field": "experience[0]",
+        "source": "recruiter_csv row 6",
+        "method": "csv company/title",
+        "confidence": 0.85
+      },
+      {
+        "field": "skills[Kubernetes]",
+        "source": "recruiter_notes section 5",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[Terraform]",
+        "source": "recruiter_notes section 5",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[Docker]",
+        "source": "recruiter_notes section 5",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[AWS]",
+        "source": "recruiter_notes section 5",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      }
+    ],
+    "overall_confidence": 0.74,
+    "warnings": [
+      "ignored 8 csv rows for other candidates"
+    ]
+  },
+  {
+    "candidate_id": "cand_82357cd19a",
+    "full_name": "Ishita Banerjee",
+    "emails": [
+      "ishita.banerjee@icloud.com"
+    ],
+    "phones": [
+      "+919867890156"
+    ],
+    "location": {
+      "city": "Kolkata",
+      "region": "West Bengal",
+      "country": "IN"
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Frontend developer building clean React user interfaces",
+    "years_experience": 3.0,
+    "skills": [
+      {
+        "name": "JavaScript",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "React",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "Figma",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "LTIMindtree",
+        "title": "Frontend Developer",
+        "start": null,
+        "end": null,
+        "summary": "Current role from recruiter CSV"
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv row 7",
+        "method": "csv name",
+        "confidence": 0.95
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_csv row 7",
+        "method": "csv email",
+        "confidence": 0.95
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_notes section 6",
+        "method": "notes email",
+        "confidence": 0.75
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_csv row 7",
+        "method": "csv phone",
+        "confidence": 0.9
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_notes section 6",
+        "method": "notes headline",
+        "confidence": 0.75
+      },
+      {
+        "field": "location",
+        "source": "recruiter_notes section 6",
+        "method": "notes location",
+        "confidence": 0.7
+      },
+      {
+        "field": "years_experience",
+        "source": "recruiter_notes section 6",
+        "method": "notes years of experience",
+        "confidence": 0.65
+      },
+      {
+        "field": "experience[0]",
+        "source": "recruiter_csv row 7",
+        "method": "csv company/title",
+        "confidence": 0.85
+      },
+      {
+        "field": "skills[JavaScript]",
+        "source": "recruiter_notes section 6",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[TypeScript]",
+        "source": "recruiter_notes section 6",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[React]",
+        "source": "recruiter_notes section 6",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[Figma]",
+        "source": "recruiter_notes section 6",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      }
+    ],
+    "overall_confidence": 0.74,
+    "warnings": [
+      "ignored 8 csv rows for other candidates"
+    ]
+  },
+  {
+    "candidate_id": "cand_d0ff9d43ca",
+    "full_name": "Raghav Bhatia",
+    "emails": [
+      "raghav.bhatia@gmail.com"
+    ],
+    "phones": [
+      "+919878901267"
+    ],
+    "location": {
+      "city": "Gurugram",
+      "region": "Haryana",
+      "country": "IN"
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "DevOps engineer focused on CI/CD and observability",
+    "years_experience": 5.0,
+    "skills": [
+      {
+        "name": "Kubernetes",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "Terraform",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "Docker",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "AWS",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Accenture India",
+        "title": "DevOps Engineer",
+        "start": null,
+        "end": null,
+        "summary": "Current role from recruiter CSV"
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv row 8",
+        "method": "csv name",
+        "confidence": 0.95
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_csv row 8",
+        "method": "csv email",
+        "confidence": 0.95
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_notes section 7",
+        "method": "notes email",
+        "confidence": 0.75
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_csv row 8",
+        "method": "csv phone",
+        "confidence": 0.9
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_notes section 7",
+        "method": "notes headline",
+        "confidence": 0.75
+      },
+      {
+        "field": "location",
+        "source": "recruiter_notes section 7",
+        "method": "notes location",
+        "confidence": 0.7
+      },
+      {
+        "field": "years_experience",
+        "source": "recruiter_notes section 7",
+        "method": "notes years of experience",
+        "confidence": 0.65
+      },
+      {
+        "field": "experience[0]",
+        "source": "recruiter_csv row 8",
+        "method": "csv company/title",
+        "confidence": 0.85
+      },
+      {
+        "field": "skills[Kubernetes]",
+        "source": "recruiter_notes section 7",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[Terraform]",
+        "source": "recruiter_notes section 7",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[Docker]",
+        "source": "recruiter_notes section 7",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[AWS]",
+        "source": "recruiter_notes section 7",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      }
+    ],
+    "overall_confidence": 0.74,
+    "warnings": [
+      "ignored 8 csv rows for other candidates"
+    ]
+  },
+  {
+    "candidate_id": "cand_e0de403de5",
+    "full_name": "Meera Iyer",
+    "emails": [
+      "meera.iyer@outlook.in"
+    ],
+    "phones": [
+      "+919889012378"
+    ],
+    "location": {
+      "city": "Chennai",
+      "region": "Tamil Nadu",
+      "country": "IN"
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "QA automation engineer improving web and API test coverage",
+    "years_experience": 4.0,
+    "skills": [
+      {
+        "name": "JavaScript",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "Selenium",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "Python",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "Pytest",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Cognizant",
+        "title": "QA Automation Engineer",
+        "start": null,
+        "end": null,
+        "summary": "Current role from recruiter CSV"
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv row 9",
+        "method": "csv name",
+        "confidence": 0.95
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_csv row 9",
+        "method": "csv email",
+        "confidence": 0.95
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_notes section 8",
+        "method": "notes email",
+        "confidence": 0.75
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_csv row 9",
+        "method": "csv phone",
+        "confidence": 0.9
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_notes section 8",
+        "method": "notes headline",
+        "confidence": 0.75
+      },
+      {
+        "field": "location",
+        "source": "recruiter_notes section 8",
+        "method": "notes location",
+        "confidence": 0.7
+      },
+      {
+        "field": "years_experience",
+        "source": "recruiter_notes section 8",
+        "method": "notes years of experience",
+        "confidence": 0.65
+      },
+      {
+        "field": "experience[0]",
+        "source": "recruiter_csv row 9",
+        "method": "csv company/title",
+        "confidence": 0.85
+      },
+      {
+        "field": "skills[JavaScript]",
+        "source": "recruiter_notes section 8",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[Selenium]",
+        "source": "recruiter_notes section 8",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[Python]",
+        "source": "recruiter_notes section 8",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[Pytest]",
+        "source": "recruiter_notes section 8",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      }
+    ],
+    "overall_confidence": 0.74,
+    "warnings": [
+      "ignored 8 csv rows for other candidates"
+    ]
+  },
+  {
+    "candidate_id": "cand_d6e8c0771a",
+    "full_name": "Aditya Kulkarni",
+    "emails": [
+      "aditya.kulkarni@gmail.com"
+    ],
+    "phones": [
+      "+919890123489"
+    ],
+    "location": {
+      "city": "Mumbai",
+      "region": "Maharashtra",
+      "country": "IN"
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Data scientist working on prediction and business insights",
+    "years_experience": 5.0,
+    "skills": [
+      {
+        "name": "Machine Learning",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "Python",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "Spark",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "SQL",
+        "confidence": 0.68,
+        "sources": [
+          "recruiter_notes"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Capgemini India",
+        "title": "Data Scientist",
+        "start": null,
+        "end": null,
+        "summary": "Current role from recruiter CSV"
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv row 10",
+        "method": "csv name",
+        "confidence": 0.95
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_csv row 10",
+        "method": "csv email",
+        "confidence": 0.95
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_notes section 9",
+        "method": "notes email",
+        "confidence": 0.75
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_csv row 10",
+        "method": "csv phone",
+        "confidence": 0.9
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_notes section 9",
+        "method": "notes headline",
+        "confidence": 0.75
+      },
+      {
+        "field": "location",
+        "source": "recruiter_notes section 9",
+        "method": "notes location",
+        "confidence": 0.7
+      },
+      {
+        "field": "years_experience",
+        "source": "recruiter_notes section 9",
+        "method": "notes years of experience",
+        "confidence": 0.65
+      },
+      {
+        "field": "experience[0]",
+        "source": "recruiter_csv row 10",
+        "method": "csv company/title",
+        "confidence": 0.85
+      },
+      {
+        "field": "skills[Machine Learning]",
+        "source": "recruiter_notes section 9",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[Python]",
+        "source": "recruiter_notes section 9",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[Spark]",
+        "source": "recruiter_notes section 9",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      },
+      {
+        "field": "skills[SQL]",
+        "source": "recruiter_notes section 9",
+        "method": "skill keyword match",
+        "confidence": 0.68
+      }
+    ],
+    "overall_confidence": 0.74,
+    "warnings": [
+      "ignored 8 csv rows for other candidates"
+    ]
+  }
+]
