@@ -1,0 +1,97 @@
+Name: Aarush Malhotra
+Headline: Data engineer building reliable analytics pipelines
+Location: Bengaluru, Karnataka, IN
+
+Recruiter notes:
+Aarush has 4 years of experience working on Python, SQL, Spark, and AWS based data pipelines.
+At Tata Consultancy Services, he worked on batch processing, dashboard data marts, and data quality checks.
+He is comfortable explaining pipeline failures, writing simple design docs, and coordinating with analysts.
+Reachable at aarush.malhotra@gmail.com.
+
+---
+Name: Diya Nair
+Headline: Machine learning engineer focused on production-ready models
+Location: Kochi, Kerala, IN
+
+Recruiter notes:
+Diya has 5 years of experience with Python, Machine Learning, SQL, AWS, and Spark.
+At Infosys, she worked on model training workflows, feature preparation, and offline evaluation reports.
+She is strong at communicating model tradeoffs to product and engineering teams.
+Reachable at diya.nair@outlook.com.
+
+---
+Name: Vivaan Roy
+Headline: Backend developer building APIs and service integrations
+Location: Kolkata, West Bengal, IN
+
+Recruiter notes:
+Vivaan has 3 years of experience with Node.js, JavaScript, SQL, PostgreSQL, and Docker.
+At Wipro, he worked on REST APIs, authentication flows, background jobs, and internal service integrations.
+He is careful with error handling, logs, and API documentation.
+Reachable at vivaan.roy@yahoo.com.
+
+---
+Name: Anika Sharma
+Headline: Data analyst creating business dashboards and reports
+Location: Delhi, Delhi, IN
+
+Recruiter notes:
+Anika has 3 years of experience with SQL, Python, Excel, Tableau, and Power BI.
+At HCLTech, she built recurring dashboards, cohort reports, and data validation checks for business teams.
+She is good at translating vague reporting requests into clear metrics.
+Reachable at anika.sharma@gmail.com.
+
+---
+Name: Kunal Mehta
+Headline: Cloud engineer improving infrastructure reliability
+Location: Pune, Maharashtra, IN
+
+Recruiter notes:
+Kunal has 4 years of experience with AWS, Docker, Kubernetes, Terraform, and Python.
+At Tech Mahindra, he supported cloud migrations, CI/CD setup, monitoring, and cost optimization work.
+He is comfortable with incident reviews and production readiness checklists.
+Reachable at kunal.mehta@proton.me.
+
+---
+Name: Ishita Banerjee
+Headline: Frontend developer building clean React user interfaces
+Location: Kolkata, West Bengal, IN
+
+Recruiter notes:
+Ishita has 3 years of experience with React, TypeScript, JavaScript, Figma, and Node.js.
+At LTIMindtree, she worked on accessible UI components, dashboard pages, and frontend performance fixes.
+She collaborates well with product managers, designers, and backend engineers.
+Reachable at ishita.banerjee@icloud.com.
+
+---
+Name: Raghav Bhatia
+Headline: DevOps engineer focused on CI/CD and observability
+Location: Gurugram, Haryana, IN
+
+Recruiter notes:
+Raghav has 5 years of experience with AWS, Docker, Kubernetes, Terraform, and Python.
+At Accenture India, he improved deployment pipelines, alerting, infrastructure automation, and release reliability.
+He is strong at documenting runbooks and handling production incidents calmly.
+Reachable at raghav.bhatia@gmail.com.
+
+---
+Name: Meera Iyer
+Headline: QA automation engineer improving web and API test coverage
+Location: Chennai, Tamil Nadu, IN
+
+Recruiter notes:
+Meera has 4 years of experience with Python, Selenium, Pytest, JavaScript, and CI/CD.
+At Cognizant, she built smoke tests, regression suites, API checks, and defect reporting workflows.
+She is good at finding flaky tests and turning them into clear engineering tasks.
+Reachable at meera.iyer@outlook.in.
+
+---
+Name: Aditya Kulkarni
+Headline: Data scientist working on prediction and business insights
+Location: Mumbai, Maharashtra, IN
+
+Recruiter notes:
+Aditya has 5 years of experience with Python, SQL, Machine Learning, Spark, and AWS.
+At Capgemini India, he worked on churn models, forecasting reports, and stakeholder-facing analytics.
+He is comfortable explaining model results in simple business language.
+Reachable at aditya.kulkarni@gmail.com.
